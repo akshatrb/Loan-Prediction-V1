@@ -1,5 +1,5 @@
 # Loan-Prediction-V1
-Applied ML Classification algorithms on the dataset and predict loan status.
+Applied ML Classification algorithms on the dataset to predict loan status.
 
 Author: Akshat Raj Baranwal
 
