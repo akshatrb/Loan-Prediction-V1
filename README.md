@@ -25,3 +25,5 @@ Technologies:
 Data Source:
         Kaggle
 
+Steps pretty much are self explanatory. 
+Feel free to ask of any doubts and consider dropping a ⭐ if the repo was of help!
