@@ -1,7 +1,10 @@
-# Loan-Prediction-V1
+# Loan Prediction - A Binary Classification Model
 Applied ML Classification algorithms on the dataset to predict loan status.
 
 Author: Akshat Raj Baranwal
+
+ Performed pre-processing steps, explored analysis methods and showcased the output 
+ using visualization techniques. 
 
 Models Used:
 
