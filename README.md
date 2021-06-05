@@ -29,3 +29,9 @@ Steps pretty much are self explanatory. Necessary comments at appropriate places
 
 
 Feel free to ask of any doubts and consider dropping a ⭐ if the repo was of help!
+
+
+
+## License
+
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
